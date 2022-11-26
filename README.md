@@ -15,4 +15,4 @@ The project currently only implements the back-end console.
 
 ## Authors:
 * Paschal N <[Paschal N](https://github.com/Paschal5000)
-* Ella J <[Ella J](https://github.com/Ellajessica)
+* Ella J <[Ella Jes](https://github.com/Ellajessica)
